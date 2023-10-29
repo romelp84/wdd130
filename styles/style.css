@@ -7,6 +7,7 @@
 }
 
 /* Centering content */
+
 nav a,
 #hero-msg h1,
 #hero-msg h4,
@@ -38,8 +39,16 @@ nav a:hover {
     color:#050505;
     text-decoration: none;
 }
-
-.book,
+.book{
+    font-family: 'Comfortaa', cursive;
+    font-size: 18px;
+    background-color: #fefefeee;
+    color: #413f40;
+    text-decoration: none;
+    padding: 15px 30px;
+    margin-top: 50px;
+    border-radius: 5px;
+}
 .join {
     font-family: 'Comfortaa', cursive;
     font-size: 18px;
