@@ -159,6 +159,14 @@ footer
 padding-top: 15px;
 }
 
+.home-grid {
+    display: grid;
+    grid-template-columns: repeat(10, 1fr);
+    grid-template-rows: auto auto auto auto auto auto;
+    gap: 20px;
+}
+
+
 .camping-card {
     grid-column: 5/7;
     grid-row: 2/3;
