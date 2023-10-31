@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Alata&family=Comfortaa&family=Raleway&display=swap');@import url('https://fonts.googleapis.com/css2?family=IM+Fell+French+Canon&family=Lato:ital,wght@0,400;0,700;1,400&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Alata&family=Comfortaa&family=Montserrat:ital,wght@1,100&family=Raleway&display=swap');
 /* Set max-width and center content */
 #content {
     max-width: 1600px;
@@ -100,7 +99,7 @@ nav a {
 }   
 
 .home-title {
-    font-family: 'Comfortaa', cursive;
+    font-family: 'Comfortaa' 'Alata', cursive;
     font-size: 2em;
     color: #089cf9;
     margin-top: 10px;
