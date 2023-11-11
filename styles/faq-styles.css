@@ -100,7 +100,7 @@ nav a {
 .home-title {
     font-family: 'Comfortaa' 'Alata', cursive;
     font-size: 2em;
-    color: #089cf9;
+    color: #fbfcfd;
     margin-top: 10px;
 }
 
@@ -287,8 +287,8 @@ nav {
 }
 
 .home-title {
-    font-size: 25px;
-    color: #6f7364;
+    font-size: 50px;
+    color: #fafbf8;
 }
 
 .rivers-card,
