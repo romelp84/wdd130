@@ -182,3 +182,7 @@ main {
     box-sizing: border-box;
     border-radius: 8px;
 }
+.footer-link a {
+    color: #fff; /* Set the text color to white */
+    text-decoration: none; /* Remove the default underline on links */
+}
