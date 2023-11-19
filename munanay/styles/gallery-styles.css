@@ -172,7 +172,6 @@ main {
     width: 50%;
 }
 
-/* Styling for the left side with brown background and white text */
 .text-container {
     font-family: Raleway, sans-serif;
     width: 40%;
@@ -183,6 +182,6 @@ main {
     border-radius: 8px;
 }
 .footer-link a {
-    color: #fff; /* Set the text color to white */
-    text-decoration: none; /* Remove the default underline on links */
+    color: #fff; 
+    text-decoration: none;
 }
